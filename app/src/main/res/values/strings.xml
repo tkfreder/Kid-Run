@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kid Run</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="service_started">Service started.</string>
+    <string name="service_stopped">Service stopped.</string>
+    <string name="go">Go!</string>
+    <string name="stop">Stop!</string>
+    <string name="again">Let\'s do it again!</string>
+    <string name="rewards">Rewards</string>
+    <string name="time_limit">Time Limit</string>
+    <string name="reached_time_limit_30_minutes">You have reached the time limit of 30 minutes.</string>
+    <string name="lost_connection">Connection Lost :(</string>
+    <string name="connection_lost_restart">Connection lost.  Please restart your run.</string>
+    <string name="done">Done</string>
+
+</resources>

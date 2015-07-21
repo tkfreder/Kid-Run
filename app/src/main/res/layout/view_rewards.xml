@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:text="25"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:src="@drawable/gold_coin"/>
+
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" = "/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/computer"/>
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" 15 min. computer time"/>
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:text="50"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:src="@drawable/gold_coin"/>
+
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" = "/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/ice_cream"/>
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" trip to ice cream shop"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:text="100"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:src="@drawable/gold_coin"/>
+
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" = "/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/slide"/>
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" park picnic playdate"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="end"
+            android:text="250"/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="start"
+            android:src="@drawable/gold_coin"/>
+
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" = "/>
+
+        <ImageView
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:src="@drawable/popcorn"/>
+        <TextView
+            style="@style/LabelSmallGray"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=" movie slumber party"/>
+
+    </LinearLayout>
+
+</LinearLayout>
