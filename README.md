@@ -16,10 +16,11 @@ The use case scenario is as follows:
 
 1.  Launch app.
 2.  Click on "Go!" button
-3.  Walk from one end of the house to the other.
+3.  Walk from one part of the building to the other or take a walk outside.
 4.  Timer will start.  
 5.  Depending on the accuracy of the location data, it should save your location periodically and calculate the distance travelled in feet.
 6.  The "feet" and "coin" counter should be updating.  You should earn 1 coin per 2 feet travelled.
 7.  Each time the display is updated and you have earned additional coins, the app will play a sound.
-8.  Click on "Stop".  The app will display the total coins earned and play a sound.  (And you can stop walking or not).
-9.  Click on "Done" will take you to the "Rewards" screen, which displays the what you can redeem with the coins earned.
+8.  Click on "Stop".  The app will display the total coins earned and play a sound.
+9.  Click on "Done" will take you to the "Rewards" screen, which displays what a user can redeem with the coins earned.  (future version of the app will have an edit screen for rewards to be accessed by Parents and "reward fullfillment" process"
+
